@@ -138,8 +138,8 @@ main {
 .ad-banner {
     width: 100%;
     height: 90px;
-    background: rgba(255,215,0,0.1);
-    border: 3px dashed #FFD700;
+    background: transparent;
+    border: none;
     border-radius: 12px;
     display: flex;
     align-items: center;
